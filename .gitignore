@@ -1,0 +1,8 @@
+.env
+venv
+__pycache__
+
+conf/at.emf.camp.zone
+conf/knot.pid
+conf/knot.sock
+conf/stats.yaml
